@@ -2,7 +2,7 @@ html, body {
     margin: 0;
     padding: 0px 0px 0px 0px;
     font-family: 'Roboto', sans-serif;
-    color: #666666;
+    color: dimgrey;
     background-color: tan;
 }
 
@@ -54,7 +54,7 @@ html, body {
 }
 
 .top-menu li a:hover {
-    background-color: peachpuff;
+    background-color: cadetblue;
 }
 
 .current-page-link {
@@ -87,6 +87,8 @@ html, body {
   border-color: saddlebrown;
 background-color: plum
 }
+
+
 
 .main-section h1 {
     text-align: center;
@@ -133,15 +135,6 @@ background-color: plum
     font-family: sans-serif;
 }
 
-.to do {
-  white-space: nowrap;
-  width: 400px;
-  border: 3px solid;
-  overflow: hidden;
-  text-overflow: clip;
-  border-color: saddlebrown;
-  background-color: antiquewhite;  
-}
 
 .page-content h4 {
     
@@ -166,12 +159,12 @@ background-color: plum
 
 .footer-content  {
     padding: 5px 5px 5px 20px;
-    color: white;
+    color: paleturquoise;
     background: #3f3c3c
 }
 
 .footer-content a:link {
-    color: black;
+    color: paleturquoise;
     text-decoration: none;
 }
 
